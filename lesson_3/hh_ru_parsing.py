@@ -55,6 +55,9 @@ def get_vacancy(link):
     return vacancy
 
 
+data = []
 for a in get_link("python junior"):
-    print(get_vacancy(a))
+    data.append(get_vacancy(a))
     time.sleep(1)
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
