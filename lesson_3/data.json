@@ -1,278 +1,302 @@
 [
     {
-        "name": "Младший веб-аналитик",
-        "salary": "от 65000 до 92000 руб. на руки"
-    },
-    {
-        "name": "Python-разработчик (Django, DRF)",
-        "salary": "от 60000 до 220000 руб. на руки"
-    },
-    {
         "name": "Junior DevOps Инженер",
-        "salary": "до 250000 руб. на руки"
-    },
-    {
-        "name": "Стажер разработчик backend / Junior Python Developer",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший разработчик / Junior Python Developer",
-        "salary": "от 80000 руб. на руки"
-    },
-    {
-        "name": "Backend-разработчик junior (Golang)",
-        "salary": "от 40000 до 100000 руб. до вычета налогов"
-    },
-    {
-        "name": "Программист/Разработчик (junior)",
-        "salary": "от 40000 руб. на руки"
-    },
-    {
-        "name": "Junior/Middle Data Scientist",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Data engineer (junior)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "DevOps engineer junior +",
-        "salary": "от 90000 руб. на руки"
+        "salary": "до 250000 руб. на руки",
+        "link": "https://hh.ru/vacancy/73811231?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Junior DevOps-инженер",
-        "salary": "до 150000 руб. на руки"
+        "salary": "до 150000 руб. на руки",
+        "link": "https://hh.ru/vacancy/71240763?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Стажер разработчик backend / Junior Python Developer",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73778334?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Младший системный администратор / junior DevOps",
-        "salary": "з/п не указана"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72741602?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Системный инженер / Junior DevOps",
-        "salary": "до 130500 руб. на руки"
+        "name": "Программист/Разработчик (junior)",
+        "salary": "от 40000 руб. на руки",
+        "link": "https://hh.ru/vacancy/74183817?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Аналитик в мобильную рекламу / Mobile analyst (Junior)",
-        "salary": "з/п не указана"
+        "name": "Junior DevOps",
+        "salary": "до 200000 руб. до вычета налогов",
+        "link": "https://hh.ru/vacancy/70413506?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior Malware Analyst",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Системный аналитик junior",
-        "salary": "з/п не указана"
+        "name": "Junior Data Analyst",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71647537?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Junior Golang разработчик",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Junior R&D Engineer",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Python Backend Developer (Junior/Remote)",
-        "salary": "до 120000 руб. на руки"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73381403?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Fullstack разработчик Python-JS",
-        "salary": "з/п не указана"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72731847?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Стажер/Младший разработчик/Junior Developer",
-        "salary": "з/п не указана"
+        "name": "Data engineer (junior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74059888?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Эконометрист/Data scientist (Junior/Middle) в консалтинг",
-        "salary": "от 40000 руб. на руки"
+        "name": "Junior/Middle Data Scientist",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74095078?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Python Junior",
-        "salary": "до 80000 руб. на руки"
+        "name": "Junior Data Еngineer Управления модельных рисков и валидации",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73038601?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Python Junior Разработчик",
-        "salary": "от 60000 до 80000 руб. на руки"
+        "name": "Аналитик в мобильную рекламу / Mobile analyst (Junior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74263872?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior Data Scientist/Младший менеджер по обработке данных",
-        "salary": "з/п не указана"
+        "name": "Junior Malware Analyst",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74183797?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior Data Scientist",
-        "salary": "з/п не указана"
+        "name": "Junior Data scientist",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73806327?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior + Data Engineer в СберМаркет",
-        "salary": "з/п не указана"
+        "name": "DevOps инженер (Junior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72804024?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Разработчик Devops / Junior Devops",
-        "salary": "от 70000 до 150000 руб. до вычета налогов"
+        "name": "Junior Data Scientist в лабораторию кибербезопасности Сбера",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73996712?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Python-разработчик (Django, DRF) программного кода",
-        "salary": "з/п не указана"
+        "name": "Junior DevOps специалист",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72670532?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Аналитик данных (junior)",
-        "salary": "з/п не указана"
+        "name": "Data Engineer junior +",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73851608?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior Data Scientist (сопровождение процесса разработки и использования моделей)",
-        "salary": "з/п не указана"
+        "name": "DevOps engineer Junior",
+        "salary": "от 120000 до 240000 руб. на руки",
+        "link": "https://hh.ru/vacancy/73808711?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Программист 1С (Junior)",
-        "salary": "з/п не указана"
+        "name": "C# developer junior / middle (.net, full-stack / back-end)",
+        "salary": "от 100000 до 220000 руб. на руки",
+        "link": "https://hh.ru/vacancy/67075607?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Старший DevOps-инженер (Сербия)",
-        "salary": "з/п не указана"
+        "name": "Преподаватель IT-дисциплин (младшая школа)",
+        "salary": "до 120000 руб. до вычета налогов",
+        "link": "https://hh.ru/vacancy/72404873?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Младший консультант / консультант по оценке кредитных рисков в Департамент управленческого консульти",
-        "salary": "з/п не указана"
+        "name": "Middle/Junior QA engineer",
+        "salary": "от 300 до 400 USD на руки",
+        "link": "https://hh.ru/vacancy/73757708?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Младший инженер САУ по авиа- и автомобильным системам",
-        "salary": "з/п не указана"
+        "name": "Frontend-разработчик",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72731102?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Менеджер по клиентской аналитике (junior)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "(Младший) Специалист поддержки бизнес приложений / IT Engineer / IT Front Office Support Specialist",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Middle QA Engineer",
-        "salary": "до 90000 руб. на руки"
-    },
-    {
-        "name": "Инженер-верификатор (RTL verification engineer)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Junior+ / pre-Middle DevOps Инженер (офис)",
-        "salary": "от 140000 до 200000 руб. до вычета налогов"
-    },
-    {
-        "name": "Инженер технической поддержки L1",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Аналитик на социологические исследования",
-        "salary": "от 130000 руб. на руки"
-    },
-    {
-        "name": "Senior Data Engineer (DataPlatform team)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший актуарий",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Продуктовый аналитик (Origination)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший консультант в группу управления финансовыми рисками",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший бизнес-аналитик, Группа цифровых технологий (Digital)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший web-аналитик",
-        "salary": "з/п не указана"
+        "name": "Младший исследователь",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74417194?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Главный Python разработчик",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Системный администратор / junior devops инженер",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший Web/App аналитик",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Data Scientist (Разработчик AI/ML)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Старший технический писатель (VK Cloud Solutions)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший системный администратор",
-        "salary": "от 70000 до 100000 руб. на руки"
-    },
-    {
-        "name": "Lead Data Scientist (Разработчик AI/ML)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Учитель программирования для детей онлайн",
-        "salary": "от 40000 до 65000 руб. на руки"
-    },
-    {
-        "name": "Junior Java specialist",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Senior Data Analyst",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший программист 1С (Junior)",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший аналитик данных",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "Младший аналитик отдела российской отчетности",
-        "salary": "з/п не указана"
-    },
-    {
-        "name": "OLAP developer",
-        "salary": "з/п не указана"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73865416?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Младший аналитик по маркетингу",
-        "salary": "з/п не указана"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73084606?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Junior PHP developer",
-        "salary": "до 80000 руб. на руки"
+        "name": "Младший риск-менеджер",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74371860?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Backend разработчик SberInfra (управление серверов приложений)",
-        "salary": "з/п не указана"
+        "name": "Портфельный аналитик управления рисков (PoS \\ Cash)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73476605?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Младший аналитик информационной безопасности",
-        "salary": "з/п не указана"
+        "name": "Data Scientist",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73080770?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Junior+ / pre-Middle DevOps Инженер (офис)",
+        "salary": "от 140000 до 200000 руб. до вычета налогов",
+        "link": "https://hh.ru/vacancy/70230395?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Спикер на курс «Автотесты на Python. Продвинутая часть»",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74038504?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Python / Tech Lead",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73727405?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший аналитик стратегического планирования (SQL)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74303641?from=vacancy_search_list&query=python+junior"
     },
     {
         "name": "Consultant - Data Analytics (Forensic Technology Solutions)",
-        "salary": "з/п не указана"
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74315258?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Риск-менеджер",
-        "salary": "з/п не указана"
+        "name": "Middle QA Engineer",
+        "salary": "до 90000 руб. на руки",
+        "link": "https://hh.ru/vacancy/73502632?from=vacancy_search_list&query=python+junior"
     },
     {
-        "name": "Старший инженер-конструктор ASIC",
-        "salary": "з/п не указана"
+        "name": "Младший бизнес-аналитик, Группа цифровых технологий (Digital)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72361797?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Data Scientist в направление рекламной платформы RnD (Big Data)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/74317205?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Backend разработчик SberInfra (управление серверов приложений)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71239335?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Менеджер по клиентской аналитике (junior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73520219?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший программист 1С (Junior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72923680?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Data Analyst",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73774684?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший аналитик данных",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72520219?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Java разработчик (SberData)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73797784?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Junior Data Engineer/ BI Аналитик",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71547628?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Devops Junior (Tantor Labs)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73525806?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Ruby on Rails developer (Middle/Senior)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73777035?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Data scientist",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71958940?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Системный аналитик",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73703738?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior/Middle Data Engineer (Promo Forecast)",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71066733?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior QA Engineer",
+        "salary": "до 3500 USD до вычета налогов",
+        "link": "https://hh.ru/vacancy/73655442?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший web-аналитик",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73869362?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший аналитик CRM",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/72121489?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Senior Python Developer",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/68492110?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Аналитик Junior",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73533679?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Младший специалист департамента анализа рисков",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/71289196?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Junior Quantitative Risk Analyst",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73474962?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Junior Дата инженер",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73457120?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Специалист в отдел разработки ПО",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73465199?from=vacancy_search_list&query=python+junior"
+    },
+    {
+        "name": "Junior Product Analyst",
+        "salary": "з/п не указана",
+        "link": "https://hh.ru/vacancy/73383552?from=vacancy_search_list&query=python+junior"
     }
 ]

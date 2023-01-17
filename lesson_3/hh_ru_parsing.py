@@ -51,6 +51,7 @@ def get_vacancy(link):
     vacancy = {
         "name": name,
         "salary": salary,
+        "link": link,
     }
     return vacancy
 
